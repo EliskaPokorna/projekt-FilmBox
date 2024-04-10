@@ -103,4 +103,207 @@ const filmy = [
 			'Na zámek v podhůří Krkonoš přijíždí jeho nový majitel Štěpán se svojí snoubenkou, krásnou komtesou Blankou, a mladším bratrem Adamem. Cestou kočár nešťastně srazí kolemjdoucí dívku, Adam jí pomůže a ona se do něj zamiluje. Na zámku Adam objeví starou vlašskou knihu, která by měla obsahovat cestu k pokladům. Tajemné značky vlašské knihy však nedokáže vyluštit ani národopisec Jiráček, který v kraji sbírá pověsti a nevychází z údivu nad tím, že zdejší lidé stále věří v Krakonoše. Na zámku se objeví záhadný cizinec a nabídne Štěpánovi, že jej k pokladu za určitých podmínek dovede. Výprava do hor může začít. Naplní se Liduščina láska k Adamovi? Jakou záhadu skrývá starý obraz na zámku Hůrka a co strašlivého se v horách kdysi odehrálo? A kdo je vlastně Krakonoš a jaké je jeho největší tajemství? (csfd.cz, Česká televize)',
 		premiera: '2022-12-24',
 	},
+	{
+		id: 'Extraktori',
+		nazev: 'Extraktoři',
+		plakat: {
+			url: 'https://image.pmgstatic.com/cache/resized/w936/files/images/film/posters/168/136/168136074_l4u1hk.png',
+			sirka: 936,
+			vyska: 592,
+		},
+		ochutnavka: 'Špionážní thriller',
+		popis:
+			'Čerstvě vytvořený tým české zpravodajské služby má za úkol pomáhat Čechům, kteří se v zahraničí ocitli v nouzi. Potřebují k tomu nejen špičkový výcvik a fyzickou kondici, ale i jazykové znalosti, kulturní a politický přehled, bystrý úsudek, schopnost rychle se rozhodovat.',
+		premiera: '2023-10-27',
+	},
+	{
+		id: 'Metoda-Markovic-hojer',
+		nazev: 'Metoa Markovič: Hojer',
+		plakat: {
+			url: 'https://image.pmgstatic.com/cache/resized/w936/files/images/film/posters/168/535/168535966_4z1meu.jpg',
+			sirka: 936,
+			vyska: 592,
+		},
+		ochutnavka: 'Krimi',
+		popis:
+			'Co se stane, když zlu nastavíte lidskou tvář? Skutečný příběh muže, který se díky své metodě stal kriminalistickou legendou. Seriál podle případů kriminalisty Jiřího Markoviče se zaměřuje především na jeho výjimečný vztah se sériovým vrahem Ladislavem Hojerem. Bez příkras ukazuje reálnou policejní práci v tehdejším ČSSR. Odehrává se v několika časových rovinách a na pozadí nejděsivějších vražd 70. a 80. let.',
+		premiera: '2024-1-26',
+	},
+	{
+		id: 'Franta-mimozemstan',
+		nazev: 'Franta mimozemšťan',
+		plakat: {
+			url: 'https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/168/308/168308223_cn6l4t.jpg',
+			sirka: 420,
+			vyska: 592,
+		},
+		ochutnavka: 'Česká komedie',
+		popis:
+			'Poklidný život malé moravské vesnice rozbouří podivné úkazy. Jako by se na poli za obcí odehrálo něco tajemného. Místní amatérský astronom Blažej (Filip Březina) je přesvědčen, že návštěva z kosmu je tady. Jen mu to nikdo nevěří. Starosta Picek (Vasil Fridrich) má zrovna spoustu práce s dotacemi a zdejší policistka Marková (Erika Stárková) rozjíždí pátrání po ukradené cisterně. Ale proč se tedy nedaleko vinice objevily na poli kruhy? A proč se soused Franta (Jakub Prachař) najednou chová tak divně? Blábolí nesmysly a hledá jakýsi Karadar. Jako by ho někdo vyměnil! Celá vesnice nicméně tvrdí, že Franta byl vždycky trochu z jiné planety, ale takové chování je moc i na jeho ženu Boženu (Tereza Ramba). A proč se tu najednou zjevila Rebeka (Kateřina Marie Fialová), která tvrdí, že do téhle na pohled nezajímavé obce přijela pouze kempovat? A komu ve skutečnosti velí generál Sokol (Jiří Langmajer)?',
+		premiera: '2024-2-8',
+	},
+	{
+		id: 'Sedm-schodu-k-moci',
+		nazev: 'Sedm schodů k moci',
+		plakat: {
+			url: 'https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/167/110/167110363_80044d.jpg',
+			sirka: 420,
+			vyska: 592,
+		},
+		ochutnavka: 'České drama',
+		popis:
+			'Příběh ženy, která uměla okouzlit, uměla si jít tvrdě za svým, milovala luxus, vlivné muže a moc. Fiktivní story dvou hlavních hrdinů je volně inspirována českým politickým prostředím po roce 2000. Sleduje životní cestu a kariérní vzestup venkovské servírky Anny Malé krok za krokem nebo, chcete-li, schůdek po schůdku, a to až do nejvyšších politických pater a ložnice ministra Tomáše Vichra... Anička Malá (Eva Podzimková) se dostane z malého města do Prahy a nastoupí jako servírka do jídelny poslanecké sněmovny. Ačkoli na začátku rozezná s bídou premiéra a o politiku se nezajímá, postupně začíná poznávat nejen její svět, ale hlavně její zákulisí. Vnímá faleš, s jakou si politici jdou před kamerami po krku, ale vzápětí spolu přátelsky popíjejí, intriky, kterými se navzájem častují, vnímá jejich osobní slabiny a postupně se učí sama jich využít na své cestě vzhůru. K tomu jí vydatně pomáhá cynický bulvární novinář Ivan Krčka (Pavel Batěk), který svými vnitřními promluvami zároveň rámuje každý díl. Postupně uzavřou tiché spojenectví, z něhož oba mají prospěch. Morálním protipólem Krčky je naopak starý poslanec Rozehnal (Luboš Veselý), bývalý disident, jehož vliv se v nové nelítostné době vytrácí. S nelibostí sleduje, jak se Anička, na začátku relativně čistá a naivní dívka, mění ve vychytralou mrchu, a snaží se ten vývoj brzdit. Aničku ale vychovává i samo prostředí. Milostný vztah s vlivným mladým lobbistou Martinem Lachmanem (Tomáš Měcháček) se ukáže být omylem, který ji kvůli nechtěnému těhotenství srazí zpět na dno, následující vztah s mladým naivním poslancem Hadrabou (Michal Dalecký) také končí neúspěšně. Až když ministr kultury Tomáš Vichr (Jiří Vyorálek) ocení její kvality a vezme si ji do svého sekretariátu na ministerstvo, začíná její cesta vzhůru k samotnému vrcholu moci. Nakonec to je ona, kdo ho přiměje, aby si úspěšně vybojoval místo premiéra, a stává se pro něj nepostradatelnou pomocnicí. Vyjednává za něj tam, kde premiér nechce být viděn, filtruje, co a kdo se k němu dostane, získává moc, která jí neáleží. A také už bez skrupulí využívá všechny benefity, které s tím souvisejí. Po strmém vzletu přichází pád Aničky i premiéra a soud, který ji viní ze zneužití pravomoci a korupce.',
+		premiera: '2024-1-28',
+	},
 ]
+
+/* 5. ÚKOL */
+
+const filmId = window.location.hash.slice(1)
+const hledanyFilm = filmy.find((nazevFilmu) => nazevFilmu.id === filmId)
+
+const nazev = document.querySelector("#detail-filmu .card-title")
+const popis = document.querySelector("#detail-filmu .card-text")
+const plakat = document.querySelector("#detail-filmu img")
+
+nazev.textContent = hledanyFilm.nazev
+popis.textContent = hledanyFilm.popis
+plakat.src = hledanyFilm.plakat.url
+plakat.style.width = hledanyFilm.plakat.sirka
+plakat.style.height = hledanyFilm.plakat.vyska
+
+
+/* 6. ÚKOL */
+
+const premiera = document.querySelector("#premiera")
+const datumPremiery = dayjs(hledanyFilm.premiera).format('D. M. YYYY')
+const dnesniDatum = dayjs()
+const vypocet = dayjs(hledanyFilm.premiera).diff(dayjs(), `days`)
+
+premiera.innerHTML = `Premiéra <strong>${datumPremiery}</strong>, což bylo před ${vypocet} dny`
+
+if(vypocet === 0) {
+	premiera.innerHTML = `Premiéra <strong>${datumPremiery}</strong>, což je dnes`
+} else if (vypocet < 0) {
+	premiera.innerHTML = `Premiéra <strong>${datumPremiery}</strong>, což bylo před ${Math.abs(vypocet)} dny`
+} else {
+	premiera.innerHTML = `Premiéra <strong>${datumPremiery}</strong>, což bude za ${vypocet} dní`
+}
+
+
+/* 7. ÚKOL */
+
+const prvky = document.querySelectorAll(".fa-star")
+
+function pocetHvezdicek(cislo) {
+
+	prvky.forEach((hvezdicka, index) => {
+		if(index < cislo) {
+			hvezdicka.classList.add("fas")
+			hvezdicka.classList.remove("far")
+		} else {
+			hvezdicka.classList.add("far")
+			hvezdicka.classList.remove("fas")
+		}
+	})
+}
+
+prvky.forEach((hvezdicka) => {
+	hvezdicka.addEventListener("click", () => {
+		const cisloHvezdicky = hvezdicka.textContent
+		pocetHvezdicek(cisloHvezdicky)
+	})
+
+	hvezdicka.addEventListener("mouseenter", () => {
+		const cisloHvezdicky = hvezdicka.textContent
+		pocetHvezdicek(cisloHvezdicky)
+	})
+
+	hvezdicka.addEventListener("mouseleave", () => {
+		const cisloHvezdicky = hvezdicka.textContent
+		pocetHvezdicek(cisloHvezdicky)
+	})
+})
+
+
+/* 8. ÚKOL */
+
+const formular = document.querySelector("#note-form")
+const messageInput = document.querySelector("#message-input")
+const checkbox = document.querySelector("#terms-checkbox")
+
+formular.addEventListener("submit", (event) => {
+	event.preventDefault()
+
+	if(messageInput.value === "") {
+		messageInput.classList.add("is-invalid")
+		messageInput.focus()
+	} else {
+		messageInput.classList.remove("is-invalid")
+		checkbox.focus()
+	}
+
+	if(!checkbox.checked) {
+		checkbox.classList.add("is-invalid")
+	} else {
+		checkbox.classList.remove("is-invalid")
+	}
+
+	if(!messageInput.classList.contains("is-invalid") && !checkbox.classList.contains("is-invalid")) {
+		formular.innerHTML = `<p class="card-text">${messageInput.value}</p>`
+	}
+})
+
+
+/* 9. ÚKOL */
+
+// zapnutí a vypnutí videa
+
+const prehravac = document.querySelector("#prehravac")
+const play = document.querySelector(".play")
+const video = document.querySelector("video")
+const pause = document.querySelector(".pause")
+
+play.addEventListener("click", () => {
+	video.play()
+})
+
+video.addEventListener("playing", () => {
+	prehravac.classList.add("playing")
+})
+
+pause.addEventListener("click", () => {
+	video.pause()
+	prehravac.classList.remove("playing")
+})
+
+// čas
+
+const currentTime = document.querySelector(".current-time")
+
+video.addEventListener("timeupdate", (event) => {
+	const pocetsekund = video.currentTime
+	let minuty = Math.floor(pocetsekund / 60)
+	let sekundy = Math.floor(pocetsekund % 60)
+
+	currentTime.textContent = `${minuty.toString().padStart(2, '0')}:${sekundy.toString().padStart(2, '0')}`
+})
+
+// bonus zastavení mezerníkem
+
+document.addEventListener("keydown", (event) => {
+	if (
+	  event.code === 'Space' &&
+	  event.target.tagName !== 'TEXTAREA' &&
+	  event.target.tagName !== 'INPUT' &&
+	  event.target.tagName !== 'BUTTON'
+	) {
+	  event.preventDefault();
+  
+	  if (video.paused) {
+		video.play();
+	  } else {
+		video.pause();
+	  }
+	}
+  });
